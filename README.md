@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 
 ![image](https://github.com/JeanPierreSV/JeanPierreSV/assets/80585738/f1b78aad-f0b8-44b0-94f2-540d2f2c25b9)
 
+- 👯 I’m looking to collaborate on ...
+- ⚡ Fun fact: ...
+
