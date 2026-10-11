@@ -6,6 +6,9 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 🌱 I’m currently learning ...
 - ⚡ Fun fact: ...
+- 👯 I’m looking to collaborate on ..
+- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on ..
 
 
 
@@ -13,6 +16,3 @@ Here are some ideas to get you started:
 
 
 
-- 👯 I’m looking to collaborate on ..
-- 👯 I’m looking to collaborate on ...
-- 🔭 I’m currently working on ..
